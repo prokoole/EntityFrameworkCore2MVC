@@ -1,0 +1,21 @@
+C:\Users\adam\Documents\Books\Pro Entity Framework Core for MVC Developers\Source Code\Current\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csproj.CoreCompileInputs.cache
+C:\Users\adam\Documents\Books\Pro Entity Framework Core for MVC Developers\Source Code\Current\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfoInputs.cache
+C:\Users\adam\Documents\Books\Pro Entity Framework Core for MVC Developers\Source Code\Current\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfo.cs
+C:\Users\adam\Documents\Books\Pro Entity Framework Core for MVC Developers\Source Code\Current\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.deps.json
+C:\Users\adam\Documents\Books\Pro Entity Framework Core for MVC Developers\Source Code\Current\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.json
+C:\Users\adam\Documents\Books\Pro Entity Framework Core for MVC Developers\Source Code\Current\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.dev.json
+C:\Users\adam\Documents\Books\Pro Entity Framework Core for MVC Developers\Source Code\Current\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.dll
+C:\Users\adam\Documents\Books\Pro Entity Framework Core for MVC Developers\Source Code\Current\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.pdb
+C:\Users\adam\Documents\Books\Pro Entity Framework Core for MVC Developers\Source Code\Current\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.dll
+C:\Users\adam\Documents\Books\Pro Entity Framework Core for MVC Developers\Source Code\Current\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.pdb
+C:\repos\Freeman\EntityFrameworkCore2MVC\02 - Your First EF Core Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.deps.json
+C:\repos\Freeman\EntityFrameworkCore2MVC\02 - Your First EF Core Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.json
+C:\repos\Freeman\EntityFrameworkCore2MVC\02 - Your First EF Core Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.dev.json
+C:\repos\Freeman\EntityFrameworkCore2MVC\02 - Your First EF Core Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.dll
+C:\repos\Freeman\EntityFrameworkCore2MVC\02 - Your First EF Core Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.pdb
+C:\repos\Freeman\EntityFrameworkCore2MVC\02 - Your First EF Core Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csprojAssemblyReference.cache
+C:\repos\Freeman\EntityFrameworkCore2MVC\02 - Your First EF Core Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csproj.CoreCompileInputs.cache
+C:\repos\Freeman\EntityFrameworkCore2MVC\02 - Your First EF Core Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfoInputs.cache
+C:\repos\Freeman\EntityFrameworkCore2MVC\02 - Your First EF Core Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfo.cs
+C:\repos\Freeman\EntityFrameworkCore2MVC\02 - Your First EF Core Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.dll
+C:\repos\Freeman\EntityFrameworkCore2MVC\02 - Your First EF Core Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.pdb
